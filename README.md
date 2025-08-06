@@ -1,5 +1,4 @@
 <h1 align="center">Bienvenue sur le GitHub de Fred A. alias DarkSpharx</h1>
-<br>
 <h3 align="center">Concepteur Designer UI, Graphiste & Développeur Front-End à Arras (France)</h3>
 
 ---
